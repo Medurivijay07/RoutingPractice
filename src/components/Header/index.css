@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.navbar-container {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.wave-image {
+  height: 30px;
+}
+
+.links-list {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #12022f;
+  font-family: 'Roboto';
+  margin-right: 10px;
+  font-weight: bold;
+}
